@@ -102,6 +102,6 @@ public class CS2_RandomVIP : BasePlugin, IPluginConfig<RandomVIPConfig>
 
     private static void getPlayers(out List<CCSPlayerController> players)
     {
-        players = Utilities.GetPlayers().Where(s => s.IsValid).ToList();
+        players = Utilities.GetPlayers().Where(s => s.IsValid && !s.IsBot && !s.IsHLTV && s.Connected == PlayerConnectedState.PlayerConnected).ToList();
     }
 }
