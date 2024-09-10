@@ -1,7 +1,0 @@
-{
-    "Prefix": "{ChatColors.DarkRed}► {ChatColors.Green}[{ChatColors.DarkRed} LOSOWY VIP {ChatColors.Green}]",
-    "Not enough players": "{ChatColors.Lime}Jest zbyt mało graczy aby wylosować {ChatColors.Purple}VIPA{ChatColors.Lime}!",
-    "message-1": "{ChatColors.Lime}Trwa losowanie {ChatColors.Purple}VIPA{ChatColors.Lime}...",
-    "message-2": "{ChatColors.Lime}----",
-    "message-3": "{ChatColors.Lime}Losowego {ChatColors.Purple}VIPA {ChatColors.Lime}otrzymuje {ChatColors.LightRed}{0}{ChatColors.Lime}."
-}

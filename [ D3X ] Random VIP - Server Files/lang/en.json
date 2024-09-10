@@ -1,7 +1,0 @@
-{
-    "Prefix": "{ChatColors.DarkRed}► {ChatColors.Green}[{ChatColors.DarkRed} RANDOM VIP {ChatColors.Green}]",
-    "Not enough players": "{ChatColors.Lime}There are not enough players to draw {ChatColors.Purple}VIP{ChatColors.Lime}!",
-    "message-1": "{ChatColors.Lime}Drawing {ChatColors.Purple}VIPA{ChatColors.Lime}...",
-    "message-2": "{ChatColors.Lime}----",
-    "message-3": "{ChatColors.Lime}Random {ChatColors.Purple}VIP {ChatColors.Lime}won {ChatColors.LightRed}{0}{ChatColors.Lime}."
-}

@@ -1,0 +1,15 @@
+{
+  "Settings": {
+    "Prefix": "{DARKRED}► {GREEN}[{DARKRED} LOSOWY VIP {GREEN}] {GREEN}✔ {LIME}",
+    "Flag": "@cszjarani/vip",
+    "AfterXRounds": 4,
+    "MinPlayers": 3
+  },
+  "Messages": {
+    "NotEnoughPlayers": "Jest zbyt mało graczy aby wylosować {PURPLE}VIPA{LIME}.",
+    "AllPlayersAreVIP": "Na serwerze są same VIPY.",
+    "DrawingStarted": "Trwa losowanie {PURPLE}VIPA{LIME}...",
+    "DrawingSeparator": "----",
+    "VIPSelected": "Losowego {PURPLE}VIPA {LIME}otrzymuje {DARKRED}{PLAYERNAME}{LIME}."
+  }
+}
